@@ -99,4 +99,4 @@ To deploy your backend on Vercel:
 
 ### Connect With Me:
 
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1077968756644511795)
+Telegram: [@dillon130](https://t.me/dillon130)
